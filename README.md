@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 THİS İS A SİMPLE WEBSİTE PROJECT FOR HO
 this ex
 fogıpofıdpdofıdpofdpofıdfıdpo
+
+##copyright 
