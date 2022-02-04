@@ -1,3 +1,4 @@
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
@@ -9,6 +10,8 @@ JASON TAYLOR
 # THANKS
 
     <name>
+	
+	all my students
 
 # TECHNOLOGY COLOPHON
 
